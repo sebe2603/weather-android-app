@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SparkAndroid</string>
+    <string name="please_enter_a_city">please enter a city</string>
+    <string name="spark">Spark</string>
+    <string name="search">search</string>
+</resources>
